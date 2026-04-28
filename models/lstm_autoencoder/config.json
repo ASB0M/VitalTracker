@@ -81,5 +81,22 @@
     "p99": 0.006123474799096584,
     "mean": 0.0008574211387895048,
     "std": 0.0011627690400928259
+  },
+  "anomaly_threshold": 0.0027741550002247095,
+  "evaluation": {
+    "threshold_strategy": "p95 of training reconstruction error",
+    "precision": 0.3338,
+    "recall": 1.0,
+    "f1": 0.5005,
+    "false_positive_rate": 0.2424,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "n_test_windows": 4118,
+    "n_anomaly_windows": 500,
+    "anomaly_types": [
+      "bradycardia",
+      "hypoxia",
+      "combined"
+    ]
   }
 }
