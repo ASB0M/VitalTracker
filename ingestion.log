@@ -1,0 +1,48 @@
+13:59:18  [INFO]  =======================================================
+13:59:18  [INFO]    Vital Monitor — Fog Ingestion Service
+13:59:18  [INFO]  =======================================================
+13:59:18  [INFO]  Database initialised at: C:\Users\Saqib\OneDrive\Desktop\VitalTracker\fog\ingestion\..\..\data\patient_vitals.db
+13:59:18  [INFO]  [MQTT] Connecting to broker.hivemq.com:1883...
+13:59:19  [INFO]  [System] Listening for data... (Ctrl+C to stop)
+
+13:59:19  [INFO]  [MQTT] Connected successfully
+13:59:19  [INFO]  [MQTT] Subscribed to: vitals/patient01
+13:59:20  [INFO]  [STATUS] Device is: online
+14:01:23  [INFO]  
+[System] Shutting down gracefully...
+14:03:05  [INFO]  =======================================================
+14:03:05  [INFO]    Vital Monitor — Fog Ingestion Service
+14:03:05  [INFO]  =======================================================
+14:03:05  [INFO]  Database initialised at: C:\Users\Saqib\OneDrive\Desktop\VitalTracker\fog\ingestion\..\..\data\patient_vitals.db
+14:03:05  [INFO]  [MQTT] Connecting to broker.hivemq.com:1883...
+14:03:06  [INFO]  [System] Listening for data... (Ctrl+C to stop)
+
+14:03:10  [INFO]  [MQTT] Connected successfully
+14:03:10  [INFO]  [MQTT] Subscribed to: vitals/patient01
+14:03:10  [INFO]  [STATUS] Device is: online
+14:03:48  [INFO]  
+[System] Shutting down gracefully...
+14:05:24  [INFO]  =======================================================
+14:05:24  [INFO]    Vital Monitor — Fog Ingestion Service
+14:05:24  [INFO]  =======================================================
+14:05:24  [INFO]  Database initialised at: C:\Users\Saqib\OneDrive\Desktop\VitalTracker\fog\ingestion\..\..\data\patient_vitals.db
+14:05:24  [INFO]  [MQTT] Connecting to broker.hivemq.com:1883...
+14:05:24  [INFO]  [System] Listening for data... (Ctrl+C to stop)
+
+14:05:25  [INFO]  [MQTT] Connected successfully
+14:05:25  [INFO]  [MQTT] Subscribed to: vitals/patient01
+14:05:25  [INFO]  [STATUS] Device is: online
+14:16:11  [INFO]  
+[System] Shutting down gracefully...
+14:17:58  [INFO]  =======================================================
+14:17:58  [INFO]    Vital Monitor — Fog Ingestion Service
+14:17:58  [INFO]  =======================================================
+14:17:58  [INFO]  Database initialised at: C:\Users\Saqib\OneDrive\Desktop\VitalTracker\fog\ingestion\..\..\data\patient_vitals.db
+14:17:58  [INFO]  [MQTT] Connecting to broker.hivemq.com:1883...
+14:17:59  [INFO]  [System] Listening for data... (Ctrl+C to stop)
+
+14:18:00  [INFO]  [MQTT] Connected successfully
+14:18:00  [INFO]  [MQTT] Subscribed to: vitals/patient01
+14:18:00  [INFO]  [STATUS] Device is: online
+14:27:58  [INFO]  
+[System] Shutting down gracefully...

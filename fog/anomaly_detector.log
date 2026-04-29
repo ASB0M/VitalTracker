@@ -1,0 +1,166 @@
+14:06:04  [INFO]  ==================================================
+14:06:04  [INFO]    Anomaly Detector — Starting
+14:06:04  [INFO]    Threshold  : 0.002774 (medium)
+14:06:04  [INFO]    P99        : 0.006123 (high)
+14:06:04  [INFO]    Poll every : 5s
+14:06:04  [INFO]  ==================================================
+14:06:04  [INFO]  Loading model and scaler...
+14:06:05  [WARNING]  TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+14:06:05  [INFO]  Model ready.
+
+14:07:53  [INFO]  ==================================================
+14:07:53  [INFO]    Anomaly Detector — Starting
+14:07:53  [INFO]    Threshold  : 0.002774 (medium)
+14:07:53  [INFO]    P99        : 0.006123 (high)
+14:07:53  [INFO]    Poll every : 5s
+14:07:53  [INFO]  ==================================================
+14:07:53  [INFO]  Loading model and scaler...
+14:07:53  [WARNING]  TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+14:07:53  [INFO]  Model ready.
+
+14:11:49  [INFO]  ==================================================
+14:11:49  [INFO]    Anomaly Detector — Starting
+14:11:49  [INFO]    Threshold  : 0.002774 (medium)
+14:11:49  [INFO]    P99        : 0.006123 (high)
+14:11:49  [INFO]    Poll every : 5s
+14:11:49  [INFO]  ==================================================
+14:11:49  [INFO]  Loading model and scaler...
+14:11:49  [WARNING]  TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+14:11:49  [INFO]  Model ready.
+
+14:13:00  [INFO]  ==================================================
+14:13:00  [INFO]    Anomaly Detector — Starting
+14:13:00  [INFO]    Threshold  : 0.002774 (medium)
+14:13:00  [INFO]    P99        : 0.006123 (high)
+14:13:00  [INFO]    Poll every : 5s
+14:13:00  [INFO]  ==================================================
+14:13:00  [INFO]  Loading model and scaler...
+14:13:00  [WARNING]  TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+14:13:00  [INFO]  Model ready.
+
+14:18:21  [INFO]  ==================================================
+14:18:21  [INFO]    Anomaly Detector — Starting
+14:18:21  [INFO]    Threshold  : 0.002774 (medium)
+14:18:21  [INFO]    P99        : 0.006123 (high)
+14:18:21  [INFO]    Poll every : 5s
+14:18:21  [INFO]  ==================================================
+14:18:21  [INFO]  Loading model and scaler...
+14:18:21  [WARNING]  TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+14:18:21  [INFO]  Model ready.
+
+14:18:23  [WARNING]  ALERT [HIGH] vitals_id=93 score=0.133167
+14:18:29  [WARNING]  ALERT [HIGH] vitals_id=94 score=0.136892
+14:18:34  [WARNING]  ALERT [HIGH] vitals_id=95 score=0.136818
+14:18:39  [INFO]  Score=0.136818 [high] — alert already logged
+14:18:45  [WARNING]  ALERT [HIGH] vitals_id=96 score=0.136657
+14:18:50  [INFO]  Score=0.136657 [high] — alert already logged
+14:18:55  [WARNING]  ALERT [HIGH] vitals_id=97 score=0.133413
+14:19:00  [INFO]  Score=0.133413 [high] — alert already logged
+14:19:06  [WARNING]  ALERT [HIGH] vitals_id=98 score=0.129514
+14:19:11  [INFO]  Score=0.129514 [high] — alert already logged
+14:19:16  [WARNING]  ALERT [HIGH] vitals_id=99 score=0.134918
+14:19:21  [INFO]  Score=0.134918 [high] — alert already logged
+14:19:27  [WARNING]  ALERT [HIGH] vitals_id=100 score=0.136540
+14:19:32  [INFO]  Score=0.136540 [high] — alert already logged
+14:19:37  [WARNING]  ALERT [HIGH] vitals_id=101 score=0.139790
+14:19:42  [INFO]  Score=0.139790 [high] — alert already logged
+14:19:47  [WARNING]  ALERT [HIGH] vitals_id=102 score=0.141811
+14:19:53  [WARNING]  ALERT [HIGH] vitals_id=103 score=0.141577
+14:19:58  [INFO]  Score=0.141577 [high] — alert already logged
+14:20:03  [WARNING]  ALERT [HIGH] vitals_id=104 score=0.140497
+14:20:09  [INFO]  Score=0.140497 [high] — alert already logged
+14:20:14  [WARNING]  ALERT [HIGH] vitals_id=105 score=0.141387
+14:20:19  [INFO]  Score=0.141387 [high] — alert already logged
+14:20:25  [WARNING]  ALERT [HIGH] vitals_id=106 score=0.143866
+14:20:30  [INFO]  Score=0.143866 [high] — alert already logged
+14:20:35  [WARNING]  ALERT [HIGH] vitals_id=107 score=0.144930
+14:20:40  [INFO]  Score=0.144930 [high] — alert already logged
+14:20:45  [WARNING]  ALERT [HIGH] vitals_id=108 score=0.148311
+14:20:51  [INFO]  Score=0.148311 [high] — alert already logged
+14:20:56  [WARNING]  ALERT [HIGH] vitals_id=109 score=0.150653
+14:21:01  [INFO]  Score=0.150653 [high] — alert already logged
+14:21:06  [WARNING]  ALERT [HIGH] vitals_id=110 score=0.155820
+14:21:11  [INFO]  Score=0.155820 [high] — alert already logged
+14:21:17  [WARNING]  ALERT [HIGH] vitals_id=111 score=0.155502
+14:21:22  [INFO]  Score=0.155502 [high] — alert already logged
+14:21:27  [WARNING]  ALERT [HIGH] vitals_id=112 score=0.154703
+14:21:33  [INFO]  Score=0.154703 [high] — alert already logged
+14:21:38  [WARNING]  ALERT [HIGH] vitals_id=113 score=0.157640
+14:21:43  [INFO]  Score=0.157640 [high] — alert already logged
+14:21:48  [INFO]  Score=0.157640 [high] — alert already logged
+14:21:54  [WARNING]  ALERT [HIGH] vitals_id=115 score=0.160211
+14:21:59  [INFO]  Score=0.160211 [high] — alert already logged
+14:22:04  [WARNING]  ALERT [HIGH] vitals_id=116 score=0.160299
+14:22:09  [INFO]  Score=0.160299 [high] — alert already logged
+14:22:15  [WARNING]  ALERT [HIGH] vitals_id=117 score=0.157869
+14:22:20  [INFO]  Score=0.157869 [high] — alert already logged
+14:22:25  [WARNING]  ALERT [HIGH] vitals_id=118 score=0.159953
+14:22:30  [INFO]  Score=0.159953 [high] — alert already logged
+14:22:36  [WARNING]  ALERT [HIGH] vitals_id=119 score=0.160683
+14:22:41  [INFO]  Score=0.160683 [high] — alert already logged
+14:22:46  [WARNING]  ALERT [HIGH] vitals_id=120 score=0.160649
+14:22:51  [INFO]  Score=0.160649 [high] — alert already logged
+14:22:57  [WARNING]  ALERT [HIGH] vitals_id=121 score=0.160513
+14:23:02  [INFO]  Score=0.160513 [high] — alert already logged
+14:23:07  [WARNING]  ALERT [HIGH] vitals_id=122 score=0.160358
+14:23:12  [INFO]  Score=0.160358 [high] — alert already logged
+14:23:18  [WARNING]  ALERT [HIGH] vitals_id=123 score=0.160269
+14:23:23  [WARNING]  ALERT [HIGH] vitals_id=124 score=0.159920
+14:23:28  [INFO]  Score=0.159920 [high] — alert already logged
+14:23:34  [WARNING]  ALERT [HIGH] vitals_id=125 score=0.162716
+14:23:39  [INFO]  Score=0.162716 [high] — alert already logged
+14:23:44  [WARNING]  ALERT [HIGH] vitals_id=126 score=0.166354
+14:23:49  [INFO]  Score=0.166354 [high] — alert already logged
+14:23:54  [WARNING]  ALERT [HIGH] vitals_id=127 score=0.162851
+14:24:00  [INFO]  Score=0.162851 [high] — alert already logged
+14:24:05  [WARNING]  ALERT [HIGH] vitals_id=128 score=0.160201
+14:24:10  [INFO]  Score=0.160201 [high] — alert already logged
+14:24:15  [WARNING]  ALERT [HIGH] vitals_id=129 score=0.159292
+14:24:20  [INFO]  Score=0.159292 [high] — alert already logged
+14:24:26  [WARNING]  ALERT [HIGH] vitals_id=130 score=0.157117
+14:24:31  [INFO]  Score=0.157117 [high] — alert already logged
+14:24:36  [WARNING]  ALERT [HIGH] vitals_id=131 score=0.162209
+14:24:41  [INFO]  Score=0.162209 [high] — alert already logged
+14:24:47  [WARNING]  ALERT [HIGH] vitals_id=132 score=0.162117
+14:24:52  [INFO]  Score=0.162117 [high] — alert already logged
+14:24:57  [WARNING]  ALERT [HIGH] vitals_id=133 score=0.159706
+14:25:02  [INFO]  Score=0.159706 [high] — alert already logged
+14:25:08  [WARNING]  ALERT [HIGH] vitals_id=134 score=0.156851
+14:25:13  [INFO]  Score=0.156851 [high] — alert already logged
+14:25:18  [WARNING]  ALERT [HIGH] vitals_id=135 score=0.160642
+14:25:23  [INFO]  Score=0.160642 [high] — alert already logged
+14:25:28  [INFO]  Score=0.160642 [high] — alert already logged
+14:25:33  [INFO]  Score=0.160642 [high] — alert already logged
+14:25:39  [INFO]  Score=0.160642 [high] — alert already logged
+14:25:44  [WARNING]  ALERT [HIGH] vitals_id=137 score=0.168243
+14:25:49  [INFO]  Score=0.168243 [high] — alert already logged
+14:25:54  [INFO]  Score=0.168243 [high] — alert already logged
+14:25:59  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:04  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:09  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:15  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:20  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:25  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:30  [INFO]  Score=0.168243 [high] — alert already logged
+14:26:35  [WARNING]  ALERT [HIGH] vitals_id=141 score=0.165959
+14:26:41  [INFO]  Score=0.165959 [high] — alert already logged
+14:26:46  [WARNING]  ALERT [HIGH] vitals_id=142 score=0.163326
+14:26:51  [INFO]  Score=0.163326 [high] — alert already logged
+14:26:56  [WARNING]  ALERT [HIGH] vitals_id=143 score=0.164708
+14:27:01  [INFO]  Score=0.164708 [high] — alert already logged
+14:27:07  [WARNING]  ALERT [HIGH] vitals_id=144 score=0.166946
+14:27:12  [INFO]  Score=0.166946 [high] — alert already logged
+14:27:17  [WARNING]  ALERT [HIGH] vitals_id=145 score=0.172896
+14:27:22  [INFO]  Score=0.172896 [high] — alert already logged
+14:27:28  [WARNING]  ALERT [HIGH] vitals_id=146 score=0.168773
+14:27:33  [INFO]  Score=0.168773 [high] — alert already logged
+14:27:38  [WARNING]  ALERT [HIGH] vitals_id=147 score=0.172313
+14:27:43  [INFO]  Score=0.172313 [high] — alert already logged
+14:27:48  [WARNING]  ALERT [HIGH] vitals_id=148 score=0.172092
+14:27:54  [INFO]  Score=0.172092 [high] — alert already logged
+14:27:59  [WARNING]  ALERT [HIGH] vitals_id=149 score=0.168459
+14:28:04  [INFO]  Score=0.168459 [high] — alert already logged
+14:28:09  [INFO]  Score=0.168459 [high] — alert already logged
+14:28:15  [INFO]  Score=0.168459 [high] — alert already logged
+14:28:20  [INFO]  Score=0.168459 [high] — alert already logged
+14:28:25  [INFO]  Score=0.168459 [high] — alert already logged
